@@ -11,3 +11,10 @@ there are two folders one is train on which model is trained and other is valid 
 UNET.py file contains the UNET model 
 
 results were applied on 2.png image and output is observed in random.png image
+
+![](2.png)
+and  the output is 
+![](random.png)
+
+
+i have used padding here.
